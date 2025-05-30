@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/HeadsUp_Logo.png"/>
+  <img src="app/assets/HeadsUp_Banner.png"/>
 </p>
 
 ---
